@@ -1,3 +1,10 @@
+# gre-vocab-assistant
+# GRE Vocab Prep App written in Python
+# Written by Gil Soffer (Originally 05-04-2015)
+# Feel free to modify and repurpose as you wish!
+
+
+
 # IMPORT NECESSARY MODULES
 import random
 from datetime import datetime
