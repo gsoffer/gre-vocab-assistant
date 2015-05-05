@@ -6,9 +6,9 @@
 
 
 # IMPORT NECESSARY MODULES
-import random
-from datetime import datetime
-import Tkinter as gui #import the Tkinter gui development module
+import random # Import the random module to choose the next word at random
+from datetime import datetime # Import the datetime module to measure seconds between button presses
+import Tkinter as gui # Import the Tkinter gui development module
 
 
 
