@@ -3,6 +3,8 @@ GRE Vocab Prep App written in Python
 
 Includes 3,700 vocab words - all with definitions and example sentences!
 
+https://cloud.githubusercontent.com/assets/12240257/7467146/8461ae3c-f2bf-11e4-9af5-e6955d9009b5.jpg
+
 To run, first make sure that the words list, "GRE Words.txt", is in the same folder as the python script, "GRE_Vocab_Assistant.py".
 Then simply navigate to the folder containing both files, and run:
 python GRE_Vocab_Assistant.py
